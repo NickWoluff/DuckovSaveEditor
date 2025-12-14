@@ -1,11 +1,13 @@
 # 鸭科夫存档编辑器 (Duckov Save Editor)
+ <img src="assets/icon.ico" width="32" height="32" />
+ 
 [![Downloads](https://img.shields.io/github/downloads/NickWoluff/DuckovSaveEditor/total?style=flat-square&logo=github)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![Last Version](https://img.shields.io/github/release/NickWoluff/DuckovSaveEditor/all.svg?style=flat-square)](https://github.com/NickWoluff/DuckovSaveEditor/releases)
 ## 简介
 
 **鸭科夫存档编辑器** 是一款专为《逃离鸭科夫》（《Escape from Duckov》）游戏设计的存档编辑工具，方便玩家查看和修改背包及仓库中的物品属性。
  支持查看物品数量、耐久度等信息，并方便快捷地修改存档数据。
 
-> 作者：尼克狼唔 `Nick Woluff`<img src="assets/icon.ico" width="16" height="16" />
+>作者：尼克狼唔 `Nick Woluff`
 
 ## 功能特点
 

@@ -5,7 +5,7 @@
 **鸭科夫存档编辑器** 是一款专为《逃离鸭科夫》（《Escape from Duckov》）游戏设计的存档编辑工具，方便玩家查看和修改背包及仓库中的物品属性。
  支持查看物品数量、耐久度等信息，并方便快捷地修改存档数据。
 
-> 作者：<img src="assets/icon.ico" width="16" height="16" />Nick Woluff
+> 作者：尼克狼唔 `Nick Woluff`<img src="assets/icon.ico" width="16" height="16" />
 
 ------
 

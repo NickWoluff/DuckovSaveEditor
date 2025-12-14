@@ -22,7 +22,7 @@
 
 ## 使用说明
 
-  1. 前往[Releases页面](https://github.com/NickWoluff/DuckovSaveEditor/releases)下载最新版本 `DuckovSaveEditor.exe`
+1. 前往[Releases页面](https://github.com/NickWoluff/DuckovSaveEditor/releases)下载最新版本 `DuckovSaveEditor.exe`
 2. 双击运行程序
 3. 点击 **“选择存档文件”**（默认路径为 `C:\Users\<用户名>\AppData\LocalLow\TeamSoda\Duckov\Saves`）
 4. 浏览物品列表
@@ -41,6 +41,4 @@
 
 ## 版权信息
 
-```
-© 2025 Nick Woluff  All rights reserved.
-```
+> © 2025 Nick Woluff  All rights reserved.

@@ -53,6 +53,5 @@
 ## 版权信息
 
 ```
-© 2025 Nick Woluff
-All rights reserved.
+© 2025 Nick Woluff  All rights reserved.
 ```

@@ -1,7 +1,7 @@
 # 鸭科夫存档编辑器 (Duckov Save Editor)
  <img src="assets/icon.ico" width="32" height="32" />
  
-[![Downloads](https://img.shields.io/github/downloads/NickWoluff/DuckovSaveEditor/total?style=flat-square&logo=github)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![Last Version](https://img.shields.io/github/release/NickWoluff/DuckovSaveEditor/all.svg?style=flat-square&color=brightgreen)](https://github.com/NickWoluff/DuckovSaveEditor/releases)![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)
+[![Downloads](https://img.shields.io/github/downloads/NickWoluff/DuckovSaveEditor/total?style=flat-square&logo=github)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![Last Version](https://img.shields.io/github/release/NickWoluff/DuckovSaveEditor/all.svg?style=flat-square&color=brightgreen)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](./LICENSE)
 
 ## 简介
 

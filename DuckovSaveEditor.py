@@ -1,3 +1,8 @@
+# Duckov Save Editor
+# Copyright © 2025 Nick Woluff
+# Licensed under the GNU Affero General Public License v3.0
+# See LICENSE file for details.
+
 import json
 import base64
 import struct

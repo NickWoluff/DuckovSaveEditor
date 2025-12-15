@@ -48,4 +48,4 @@
 
 ## 版权信息
 
-> © 2025 Nick Woluff  All rights reserved.
+> Copyright © 2025 Nick Woluff. All Rights Reserved.

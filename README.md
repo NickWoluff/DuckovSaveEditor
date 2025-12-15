@@ -1,7 +1,8 @@
 # 鸭科夫存档编辑器 (Duckov Save Editor)
  <img src="assets/icon.ico" width="32" height="32" />
  
-[![Downloads](https://img.shields.io/github/downloads/NickWoluff/DuckovSaveEditor/total?style=flat-square&logo=github)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![Last Version](https://img.shields.io/github/release/NickWoluff/DuckovSaveEditor/all.svg?style=flat-square)](https://github.com/NickWoluff/DuckovSaveEditor/releases)
+[![Downloads](https://img.shields.io/github/downloads/NickWoluff/DuckovSaveEditor/total?style=flat-square&logo=github)](https://github.com/NickWoluff/DuckovSaveEditor/releases)[![Last Version](https://img.shields.io/github/release/NickWoluff/DuckovSaveEditor/all.svg?style=flat-square&color=brightgreen)](https://github.com/NickWoluff/DuckovSaveEditor/releases)![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)
+
 ## 简介
 
 **鸭科夫存档编辑器** 是一款专为《逃离鸭科夫》（《Escape from Duckov》）游戏设计的存档编辑工具，方便玩家查看和修改背包及仓库中的物品属性。
@@ -37,6 +38,7 @@
 
 ## 发布说明
 
+- 本项目基于 [**GNU Affero General Public License v3.0 (AGPL-3.0)**](./LICENSE) 开源
 - 仅用于学习用途免费分享，勿用于商业分发
 - 若需反馈问题或建议，请在 Issues 中留言
 
